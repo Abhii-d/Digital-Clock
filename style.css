@@ -1,0 +1,27 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #114c68;
+}
+.clock
+{
+    font-size: 120px;
+    font-family: Verdana;
+    color: skyblue;
+    width: 600px;
+    height: 220px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    border: 10px solid #434f79;
+}
